@@ -1,8 +1,8 @@
-Case Study with machine learning and deep learning
+# Case Study with machine learning and deep learning
 
-Case study 1 : Bank customer data
+## Case study 1 : [Bank customer data](https://github.com/NMShihab/Case_Study_with_mechine_learning_and_deep_learning/tree/master/Bank_data)
 
-Steps :
+_Steps_ :
 
 1. Data cleaning
 2. Data analysis with visualization
