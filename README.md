@@ -21,10 +21,10 @@
 
 ## Case study 1 : [Bank customer data](https://github.com/NMShihab/Case_Study_with_mechine_learning_and_deep_learning/tree/master/Bank_data)
 
-## **[Analysis Data](https://github.com/NMShihab/Case_Study_with_mechine_learning_and_deep_learning/blob/master/Bank_data/Analysis_of_data.ipynb)**
+## **[_Analysis Data_](https://github.com/NMShihab/Case_Study_with_mechine_learning_and_deep_learning/blob/master/Bank_data/Analysis_of_data.ipynb)**
 
 
-## **[Machine Learning Algorithm and their evolution](https://github.com/NMShihab/Case_Study_with_mechine_learning_and_deep_learning/blob/master/Bank_data/Machine_learning_models.ipynb)**
+## **[_Machine Learning Algorithm and their evolution_](https://github.com/NMShihab/Case_Study_with_mechine_learning_and_deep_learning/blob/master/Bank_data/Machine_learning_models.ipynb)**
 
 |  NO  |   Algorithm Name   |   Type    | Highest accuracy |
 | :--- | :----------------- | :-------- | :--------------- |
