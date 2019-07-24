@@ -31,4 +31,5 @@
 |  1   | Logistic Regresson | Clssifier |      0.817       |
 |  2   |       SVM          | Clssifier |      0.867       |
 |  3   |   SGDClassifier    | Clssifier |      0.819       |
+|  4   |   DecisionTree     | Clssifier |      0.826       |
 
