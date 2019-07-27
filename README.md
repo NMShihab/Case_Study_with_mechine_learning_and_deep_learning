@@ -26,10 +26,11 @@
 
 ## **[_Machine Learning Algorithm and their evolution_](https://github.com/NMShihab/Case_Study_with_mechine_learning_and_deep_learning/blob/master/Bank_data/Machine_learning_models.ipynb)**
 
-|  NO  |   Algorithm Name   |   Type    | Highest accuracy |
-| :--- | :----------------- | :-------- | :--------------- |
+|  NO  |   Algorithm Name   |   Type    | Highest accuracy | 
+| :--- | :----------------- | :-------- | :--------------- | 
 |  1   | Logistic Regresson | Clssifier |      0.817       |
 |  2   |       SVM          | Clssifier |      0.867       |
 |  3   |   SGDClassifier    | Clssifier |      0.819       |
 |  4   |   DecisionTree     | Clssifier |      0.826       |
+|  5   |   Random Forest    | Clssifier |      0.850       |
 
