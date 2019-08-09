@@ -3,7 +3,7 @@
 ## **[_Analysis Data_](https://github.com/NMShihab/Case_Study_with_mechine_learning_and_deep_learning/blob/master/Bank_data/Analysis_of_data.ipynb)**
 
 
-## **[_Machine Learning Algorithm and their evolution_](https://github.com/NMShihab/Case_Study_with_mechine_learning_and_deep_learning/blob/master/Bank_data/Machine_learning_models.ipynb)**
+## **[_Machine Learning Algorithm and their evalution table :_](https://github.com/NMShihab/Case_Study_with_mechine_learning_and_deep_learning/blob/master/Bank_data/Machine_learning_models.ipynb)**
 
 |  NO  |   Algorithm Name   |   Type    | Highest accuracy | Precision for 0  | Precision for 1  |
 | :--- | :----------------- | :-------- | :--------------- | :--------------- | :--------------- |
@@ -16,8 +16,11 @@
 |  7   |  Naive Bayes       | Clssifier |      0.839       |      0.85        |      0.75        |
 |  8   |      KNN           | Clssifier |      0.845       |      0.86        |      0.70        |
 
+## _Performance Measure graph_
+![](Performance.png)
 
-**Accourding to this table _Random Forest_ gives us better result**
+
+**Accourding to this table and the graph  _Random Forest_ gives us better result**
 
 
 ## Note : Model always choose accourding to its business purpuse
